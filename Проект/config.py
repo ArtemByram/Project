@@ -1,0 +1,1 @@
+DB_NAME = "Baza_Maneker.db" 
